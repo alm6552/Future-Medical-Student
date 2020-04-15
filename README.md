@@ -1,4 +1,1 @@
-# Future-Medical-Student
-The future looks bright 
-
-A blog for a future medical student 
+# Post 1: Day 1, April 15, 2020
