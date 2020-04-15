@@ -1,2 +1,2 @@
 # Future-Medical-Student
-The future is looking bright 
+The future looks bright 
